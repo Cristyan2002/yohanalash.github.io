@@ -5,7 +5,7 @@
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-informational)
 
 <p align="center">
-  Landing page elegante e responsiva para a profissional Yohana Lash Designer, focada em apresentar seus serviços, construir autoridade com depoimentos e converter visitantes em clientes através de um agendamento facilitado.
+  Landing page elegante e responsiva para a profissional Yohana Lash Designer, focada em apresentar seus serviços, construir autoridade com depoimentos e converter visitantes em clientes através de um agendamentos facilitados.
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 ## 📋 Índice
 
-* [Sobre o Projeto](#-sobre-o-projeto)
-* [Funcionalidades](#-funcionalidades)
-* [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-* [Aprendizados](#-aprendizados)
-* [Como Executar o Projeto](#-como-executar-o-projeto)
-* [Contato](#-contato)
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Aprendizados](#-aprendizados)
+- [Como Executar o Projeto](#-como-executar-o-projeto)
+- [Contato](#-contato)
 
 ## 💡 Sobre o Projeto
 
