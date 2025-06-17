@@ -119,3 +119,15 @@ footer {
   font-family: "Raleway", sans-serif;
   color: #716a60;
 }
+@media (max-width: 400px) {
+  .footer-container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .footer-container {
+    text-align: center;
+  }
+  .footer-redes {
+    justify-content: center;
+  }
+}

@@ -46,3 +46,27 @@
   background-color: #4d463d;
   transform: scale(1.05);
 }
+@media (max-width: 400px) {
+  .cta h2 {
+    font-size: 1.5rem;
+  }
+  .cta p {
+    font-size: 1.1rem;
+  }
+  .botao-cta {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    background-color: #655e54;
+    color: #fdfcf9;
+    padding: 18px 40px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  .botao-cta:hover {
+    background-color: #4d463d;
+    transform: scale(1.05);
+  }
+}
