@@ -5,10 +5,6 @@
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-informational)
 
 <p align="center">
-  <img src="https://i.imgur.com/rS2a0Qk.png" alt="Demonstração do site Yohana Lash Designer" width="800px">
-</p>
-
-<p align="center">
   Landing page elegante e responsiva para a profissional Yohana Lash Designer, focada em apresentar seus serviços, construir autoridade com depoimentos e converter visitantes em clientes através de um agendamento facilitado.
 </p>
 
